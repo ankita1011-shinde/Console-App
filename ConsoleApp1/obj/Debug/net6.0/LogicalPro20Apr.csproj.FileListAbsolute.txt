@@ -1,0 +1,15 @@
+D:\C# folder\ConsoleApp1\bin\Debug\net6.0\LogicalPro20Apr.exe
+D:\C# folder\ConsoleApp1\bin\Debug\net6.0\LogicalPro20Apr.deps.json
+D:\C# folder\ConsoleApp1\bin\Debug\net6.0\LogicalPro20Apr.runtimeconfig.json
+D:\C# folder\ConsoleApp1\bin\Debug\net6.0\LogicalPro20Apr.dll
+D:\C# folder\ConsoleApp1\bin\Debug\net6.0\LogicalPro20Apr.pdb
+D:\C# folder\ConsoleApp1\obj\Debug\net6.0\LogicalPro20Apr.csproj.AssemblyReference.cache
+D:\C# folder\ConsoleApp1\obj\Debug\net6.0\LogicalPro20Apr.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# folder\ConsoleApp1\obj\Debug\net6.0\LogicalPro20Apr.AssemblyInfoInputs.cache
+D:\C# folder\ConsoleApp1\obj\Debug\net6.0\LogicalPro20Apr.AssemblyInfo.cs
+D:\C# folder\ConsoleApp1\obj\Debug\net6.0\LogicalPro20Apr.csproj.CoreCompileInputs.cache
+D:\C# folder\ConsoleApp1\obj\Debug\net6.0\LogicalPro20Apr.dll
+D:\C# folder\ConsoleApp1\obj\Debug\net6.0\refint\LogicalPro20Apr.dll
+D:\C# folder\ConsoleApp1\obj\Debug\net6.0\LogicalPro20Apr.pdb
+D:\C# folder\ConsoleApp1\obj\Debug\net6.0\LogicalPro20Apr.genruntimeconfig.cache
+D:\C# folder\ConsoleApp1\obj\Debug\net6.0\ref\LogicalPro20Apr.dll
